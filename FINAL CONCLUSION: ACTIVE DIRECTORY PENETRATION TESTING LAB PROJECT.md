@@ -1,5 +1,3 @@
----
-
 ## **🎯 PROJECT ACHIEVEMENTS SUMMARY**
 
 ### **What You Built in 5 Days**
